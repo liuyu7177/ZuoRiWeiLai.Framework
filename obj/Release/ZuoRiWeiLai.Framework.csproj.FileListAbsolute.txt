@@ -1,0 +1,5 @@
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\bin\Release\ZuoRiWeiLai.Framework.dll
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\bin\Release\ZuoRiWeiLai.Framework.pdb
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.csprojResolveAssemblyReference.cache
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.dll
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.pdb

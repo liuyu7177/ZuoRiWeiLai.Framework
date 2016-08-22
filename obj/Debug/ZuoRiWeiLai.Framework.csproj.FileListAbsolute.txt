@@ -1,0 +1,4 @@
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\bin\Debug\ZuoRiWeiLai.Framework.dll
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\bin\Debug\ZuoRiWeiLai.Framework.pdb
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.dll
+C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.pdb
