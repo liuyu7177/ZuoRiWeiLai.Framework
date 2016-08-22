@@ -2,3 +2,25 @@ C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai
 C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\bin\Debug\ZuoRiWeiLai.Framework.pdb
 C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.dll
 C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.pdb
+C:\MyProject\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.csprojResolveAssemblyReference.cache
+C:\MyProject\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.dll
+C:\MyProject\ZuoRiWeiLai.Framework\obj\Debug\ZuoRiWeiLai.Framework.pdb
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\ZuoRiWeiLai.Framework.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\ZuoRiWeiLai.Framework.pdb
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.Mvc.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.Razor.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.WebPages.Razor.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.WebPages.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.Mvc.xml
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.Razor.xml
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.WebPages.Razor.xml
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.WebPages.xml
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+C:\MyProject\ZuoRiWeiLai.Framework\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
