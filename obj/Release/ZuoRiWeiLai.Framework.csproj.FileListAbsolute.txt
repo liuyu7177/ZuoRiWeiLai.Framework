@@ -3,3 +3,27 @@ C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai
 C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.csprojResolveAssemblyReference.cache
 C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.dll
 C:\Users\liuyu7177\Documents\Visual Studio 2015\Projects\AutofacDemo\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.pdb
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\ZuoRiWeiLai.Framework.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\ZuoRiWeiLai.Framework.pdb
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\Newtonsoft.Json.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.Mvc.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.Razor.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.WebPages.Razor.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.WebPages.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.WebPages.Deployment.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\Newtonsoft.Json.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.Mvc.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.Razor.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.WebPages.Razor.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.WebPages.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\System.Web.WebPages.Deployment.xml
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\zh-Hans\System.Web.Razor.resources.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\zh-Hans\System.Web.WebPages.resources.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\bin\Release\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.dll
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.pdb
+C:\MyProject\ZuoRiWeiLai\ZuoRiWeiLai.Framework\obj\Release\ZuoRiWeiLai.Framework.csprojResolveAssemblyReference.cache

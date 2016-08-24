@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace ZuoRiWeiLai.Framework.Extensions
+namespace ZuoRiWeiLai.Framework
 {
     public static partial class ControllerExtensions
     {
